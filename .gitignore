@@ -1,0 +1,53 @@
+# Keil MDK (uVision) files
+*.uvoptx
+*.uvopt
+*.uvproj
+*.bak
+*.dep
+*.lst
+*.map
+*.iex
+*.plg
+*.tra
+*.htm
+*.lnp
+*.sct
+*.scvd
+*.uvguix.*
+
+# Keil build output
+*.axf
+*.elf
+*.hex
+*.bin
+*.o
+*.d
+*.crf
+*.sbr
+*.htm
+*.log
+*.map
+*.lst
+*.out
+*.dep
+*.iex
+
+# EIDE (Embedded IDE) files
+.eide/
+.eide_workspace/
+.eide_project/
+*.eideproj
+
+# Common
+*.tmp
+*.user
+*.log
+*.bak
+*.swp
+*.swo
+*.swn
+*.db
+.DS_Store
+Thumbs.db
+MDK-ARM/JLinkLog.txt
+MDK-ARM/DebugConfig/RP2025_New_SuperCap_STM32G474CETx.dbgconf
